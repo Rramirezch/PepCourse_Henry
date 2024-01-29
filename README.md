@@ -1,2 +1,1 @@
-# PepCourse_Henry
-prueba del modulo 2 de henry
+este es una prueba para clonar un repositorio desde github a nuestro equipo
