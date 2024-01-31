@@ -1,1 +1,2 @@
-este es una prueba para clonar un repositorio desde github a nuestro equipo
+Rodrigo Ramirez
+proyecto para crear repositorio en github y clonarlo a nuestro equipo
